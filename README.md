@@ -13,6 +13,14 @@ A comprehensive Python library for parsing and analyzing complex presentation sl
 
 ## Installation
 
+## Weights
+
+I used the weights from the following repository:
+https://github.com/moured/YOLOv11-Document-Layout-Analysis/
+
+Here is the link to download the weights directly: https://github.com/moured/YOLOv11-Document-Layout-Analysis/releases/download/doclaynet_weights/yolov11x_best.pt
+
+
 ### Prerequisites
 
 - Python 3.8 or higher
